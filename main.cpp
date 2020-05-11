@@ -1,9 +1,7 @@
 #include <iostream>
 
-#include <boost/iterator/iterator_traits.hpp>
 #include <boost/utility/enable_if.hpp>
 #include <boost/mpl/if.hpp>
-
 #include <boost/mpl/at.hpp>
 #include <boost/type_traits/is_same.hpp>
 
